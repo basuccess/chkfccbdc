@@ -126,8 +126,10 @@ Create a feature branch (git checkout -b feature-branch).
 Commit changes (git commit -m "Add feature").
 Push to the branch (git push origin feature-branch).
 Open a pull request.
-License
-This project is licensed under the MIT License. See LICENSE for details (add a LICENSE file if desired).
 
-Contact
-For issues or suggestions, open an issue on GitHub or contact <your-email> (optional).
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For issues or suggestions, open an issue on GitHub or contact tony.houweling@gmail.com
